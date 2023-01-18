@@ -1,9 +1,9 @@
 ### Hi there, I'm Sebastian Hereñu 👋
 
 ### I am passionate about computer systems and computers.
-### I studied programming mostly self-taught but I am currently doing a Technician's Degree in Systems Programming at the UTN.
-### I characterize myself for being very responsible and working very well in a team.
-### I am always predisposed to new challenges and to acquire more knowledge that will allow me to develop on this path that I want to start.
+ I studied programming mostly self-taught but I am currently doing a Technician's Degree in Systems Programming at the UTN.
+ I characterize myself as being very responsible and working very well in a team.
+ I am always predisposed to new challenges and to acquire more knowledge that will allow me to develop on this path that I want to start.
 
 
 ```javascript
