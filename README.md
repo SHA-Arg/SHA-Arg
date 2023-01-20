@@ -1,3 +1,8 @@
+### Hola soy Sebastián Hereñu Amaral 👋
+
+### Soy un apasionado de los sistemas informáticos y las computadoras.
+Estudié programación en su mayoría de forma autodidacta pero actualmente estoy realizando la carrera de Técnico en Programación de Sistemas en la UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos ya adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
+
 ### Hi there, I'm Sebastian Hereñu 👋
 
 ### I am passionate about computer systems and computers.
