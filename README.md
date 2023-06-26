@@ -14,7 +14,7 @@ Estudié programación en su mayoría de forma autodidacta. Me caracterizo por s
 ```javascript
 const SHA-Arg = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, CSharp, SqlServer, Mysql],
+   code: [ HTML, CSS, Javascript, Python, CSharp, SqlServer, Mysql],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -22,8 +22,9 @@ const SHA-Arg = {
       },
       backEnd: {         
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash"]
+         Python: ["Flask"],
+         csharp: ["Asp.net Core"],         
+         misc: ["Bash", "Docker", "Kubernetes"]
       },
       databases: [ "mySQL", "SQLServer"],      
    },
