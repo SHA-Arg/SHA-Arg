@@ -26,7 +26,7 @@ const SHA-Arg = {
          csharp: ["Asp.net Core"],         
          misc: ["Bash", "Docker", "Kubernetes"]
       },
-      databases: [ "mySQL", "SQLServer"],      
+      databases: [ "MySQL", "SQLServer"],      
    },
    currentOccupation: ["open for my first job opportunities"],
    challenge: "I'm working towards being able to start my career as a fullstack developer.",
