@@ -11,28 +11,7 @@ Estudié programación en su mayoría de forma autodidacta. Me caracterizo por s
  I am always predisposed to new challenges and to acquire more knowledge that will allow me to develop on this path that I want to start.
 
 
-```javascript
-const SHA-Arg = {
-   pronouns: "he" | "him",
-   code: [ HTML, CSS, Javascript, Python, CSharp, SqlServer, Mysql],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap"]
-      },
-      backEnd: {         
-         js: ["Node", "Express"],
-         Python: ["Flask"],
-         csharp: ["Asp.net Core"],         
-         misc: ["Bash", "Docker", "Kubernetes"]
-      },
-      databases: [ "MySQL", "SQLServer"],      
-   },
-   currentOccupation: ["open for my first job opportunities"],
-   challenge: "I'm working towards being able to start my career as a fullstack developer.",
-};
-};
-```
+
 ### More about me
 <p align="center">My work experience was mostly customer service and managing commercial premises in large stores with staff in charge. I got promoted in all jobs and am currently looking to change the course of my working life by wanting to dedicate myself to the technology industry.</p>
 
