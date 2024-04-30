@@ -11,9 +11,11 @@
 </div>
 
 
-### Acerca de mí 
-### Soy un apasionado de los sistemas informáticos y las computadoras.
-Estudié programación en su mayoría de forma autodidacta y actualmente me encuentro realizando una Tecnicatura Universitaria de Programacion en UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos ya adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
+<ul align="center">
+    <h1 style="display: inline-block">Acerca de mí</h1>
+</ul>
+
+### Soy un apasionado de los sistemas informáticos y las computadoras. Estudié programación en su mayoría de forma autodidacta y actualmente me encuentro realizando una Tecnicatura Universitaria de Programacion en UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos ya adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
 
 <!--tech stack icons
 <p align="center">
