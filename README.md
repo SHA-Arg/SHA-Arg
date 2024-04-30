@@ -1,6 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola, soy Sebastián Hereñu Amaral</h1></summary>
+    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" heigth =100px  width =100px></picture>
   </ul>
 </div>
 <!--- snake -->
@@ -9,23 +10,34 @@
        alt="snake" /></a>
 </div>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" heigth =100px  width =100px></picture>
+
 ### Acerca de mí 
 ### Soy un apasionado de los sistemas informáticos y las computadoras.
 Estudié programación en su mayoría de forma autodidacta y actualmente me encuentro realizando una Tecnicatura Universitaria de Programacion en UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos ya adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+<!--tech stack icons
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
-</p>
+</p> -->
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
 
 
  
