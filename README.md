@@ -7,8 +7,6 @@
        alt="snake" /></a>
 </div>
   </ul>
-  <!--- snake -->
-
 </div>
 
 
@@ -18,13 +16,6 @@
 </ul>
 
 ### Soy un apasionado de los sistemas informáticos y las computadoras. Estudié programación en su mayoría de forma autodidacta y actualmente me encuentro realizando una Tecnicatura Universitaria de Programacion en UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos ya adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
-
-<!--tech stack icons
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -46,7 +37,7 @@
 
  
 <!-- Connect with me -->
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
