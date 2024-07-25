@@ -9,10 +9,7 @@
 ### Estudié programación en su mayoría de forma autodidacta y actualmente me encuentro realizando una Tecnicatura Universitaria de Programación en UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos y adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
 
     
-  <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
   </ul>
 </div>
 
