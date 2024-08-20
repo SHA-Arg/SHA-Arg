@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, soy Sebastián Hereñu Amaral</h1><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" heigth =100px  width =100px></picture></summary>
+    <summary><h1 style="display: inline-block">Hola, soy Sebastián Hereñu Amaral</h1></summary>
 
 <ul align="center">
     <h1 style="display: inline-block">Acerca de mí</h1>
