@@ -16,10 +16,10 @@
 
 
 <h3>Lenguajes</h3>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="40" height="40" />
-            </a>
+</a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" />
@@ -83,11 +83,10 @@
  
 <!-- Connect with me -->
 
-<div id="user-content-toc">
-  <ul align="center">
+<ul align="center">
     <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
   </ul>
-</div>
+
 
 <!--icons and links-->
 <p align="center">
