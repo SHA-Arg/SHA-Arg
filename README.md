@@ -1,9 +1,11 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola, soy Sebastián Hereñu Amaral</h1></summary>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Developer;Estudiante+de+Tecnicatura+en+Programacion;Always+learning+new+things"></a>
+</p>
 <ul align="center">
-    <h1 style="display: inline-block">Acerca de mí</h1>
+    <h1 style="display: inline-block">Acerca de mí</h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
 </ul>
 
 ### Estudié programación en su mayoría de forma autodidacta y actualmente me encuentro realizando una Tecnicatura Universitaria de Programación en UTN. Me caracterizo por ser muy responsable y trabajar muy bien en equipo. Siempre estoy predispuesto a nuevos retos y adquirir más conocimientos que me permitan desarrollarme en este camino que quiero emprender.
@@ -41,5 +43,6 @@
 
 
 <p align="center">
- Mira mis repositorios⬇️  
+ <h2 style="display: inline-block">Mira mis repositorios⬇️</h2>  
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
