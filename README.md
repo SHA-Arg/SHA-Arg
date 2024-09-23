@@ -13,7 +13,7 @@
 </div>
 
 
-
+<!--
 
 <h3>Lenguajes</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -79,13 +79,13 @@
             <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
             </a>
-
+-->
  
 <!-- Connect with me -->
 
 <ul align="center">
-    <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
-  </ul>
+    <h2 style="display: inline-block">Conectate conmigo🤝</h2>
+</ul>
 
 
 <!--icons and links-->
@@ -97,9 +97,8 @@
   
 </p>
 
+<ul align="center"> 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<h2 style="display: inline-block">Mira mis repositorios⬇️</h2>  
+</ul>
 
-
-<p align="center">
- <h2 style="display: inline-block">Mira mis repositorios⬇️</h2>  
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
