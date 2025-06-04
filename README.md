@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, soy Sebastián Hereñu Amaral</h1></summary>
+    <summary><h1 style="display: inline-block">Soy S3b4s7i4n H. A.</h1></summary>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Freelance+Developer;Always+learning+new+things"></a>
 </p>
@@ -80,12 +80,12 @@
             </a>
 -->
  
-<!-- Connect with me -->
-
+<!-- Connect with me
 <ul align="center">
     <h2 style="display: inline-block">Conectate conmigo🤝</h2>
 </ul>
 
+ -->
 
 <!--icons and links-->
 <p align="center">
